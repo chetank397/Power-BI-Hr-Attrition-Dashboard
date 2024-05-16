@@ -3,6 +3,9 @@
 
 # HR_Attrition_Dashboard
 
+![HR Attrtion Dashboard_page-0001](https://github.com/chetank397/Power-BI-Hr-Attrition-Dashboard/assets/163136348/e5b54e9d-381c-4b87-8bcf-e3bb1c803c34)
+
+
 
 ## Problem Statement
 
